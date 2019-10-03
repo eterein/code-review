@@ -11,7 +11,7 @@
 https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/ </br>
 [和訳]https://qiita.com/terra_yucco/items/d101a57566a5e9b3a076
 
-### 常にポジティブで始める。
+### 常にポジティブで始める
 
 "ポジティブな雰囲気を出せるように、私はいつも感謝とうまくいった点からレビューを始めることにしました。
 対処する必要があるコードに多くの問題点があったとしても、彼らの貢献に対して感謝の気持ちを表現することは大事です。
@@ -75,13 +75,13 @@ https://dev.to/jnschrag/10-lessons-learned-conducting-code-reviews-5di6 </br>
 コメントの意図を伝える共通言語
 
 ### [must]
-必ず修正する。要件を満たしていない明らかな間違いなど
+必ず修正する要件を満たしていない明らかな間違いなど
 
 ### [nits]
-nitpickの略　スペルミスなどの細かい指摘
+「nitpick」の略</br>スペルミスなどの細かい指摘
 
 ### [imo]
-In My Opinion の略 こんな記述はどうでしょうかと提案をする。
+「in my opinion」の略</br>こんな記述はどうでしょうかと提案をする
 
 ### [ask]
 質問だということ明記
@@ -91,11 +91,11 @@ In My Opinion の略 こんな記述はどうでしょうかと提案をする�
 - ○○がわかりにくいと感じました
 - ○○はどうでしょうか？
 - この処理を入れているのはなぜでしょうか？
-- 私なら○○にするかもしれません
+- 私なら○○にするかもしれませんがいかがでしょうか
 
 ## 参考にした情報
 
-- WIKI - SOLID(https://ja.wikipedia.org/wiki/SOLID)
+- WiKi - SOLID(https://ja.wikipedia.org/wiki/SOLID)
 - Wiki - KISS(https://ja.wikipedia.org/wiki/KISS%E3%81%AE%E5%8E%9F%E5%89%87)
 - Wiki - YAGNI(https://ja.wikipedia.org/wiki/YAGNI)
 - コードレビューの大切さを普及する活動(https://qiita.com/nanaki11/items/6c865040fd4b258a1aa3)
