@@ -87,14 +87,14 @@ In My Opinion の略 こんな記述はどうでしょうかと提案をする�
 ### [ask]
 質問だということ明記
 
-## レビューで使用できる文言
+## レビューで活用できる文言集
 
 - ○○がわかりにくいと感じました
 - ○○はどうでしょうか？
 - この処理を入れているのはなぜでしょうか？
 - 私なら○○にするかもしれません
 
-参考 : 
+## 参考にした情報
 
 - WIKI - SOLID(https://ja.wikipedia.org/wiki/SOLID)
 - Wiki - KISS(https://ja.wikipedia.org/wiki/KISS%E3%81%AE%E5%8E%9F%E5%89%87)
